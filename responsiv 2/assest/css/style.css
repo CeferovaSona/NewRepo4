@@ -1,0 +1,60 @@
+.item{
+    border-bottom: none;
+    background-image: url(/assest/css/images/intro\ picture1.png), url(/assest/intro\ picture2.svg), linear-gradient(
+45deg, #9dc66b 5%, #4fa49a 30%, #4361c2);
+    background-position: top left, center center, center center;
+    background-size: auto, cover, cover;
+    color: white;
+    height: 600px;
+
+}
+.card-title{
+    letter-spacing: 4px;
+    color: white;
+    font-weight: 2000px;
+    font-size: 40px;
+}
+.type i{
+    color:white;
+    font-size: 70px;
+    margin-bottom: 10px;
+}
+.item{
+    padding-top:100px ;
+}
+.btn-primary{
+    width:200px;
+    height:50px;
+    background:none;
+    border: 1px solid white;
+    text-align: center;
+    font-size: 20px;
+    margin-top: 20px;
+}
+.image{
+    width:100%;
+}
+#lorem{
+    padding-top: 100px;
+    height: 500px;
+}
+.item1{
+    color:grey
+}
+#icon{
+    height:700px;
+   
+    color: rgba(255, 255, 255, 0.75);
+   
+    background-image: url(./images/section1.svg), url(/assest/css/images/2.jpg);
+    background-color: #333;
+    background-attachment: fixed, fixed;
+}
+ul.major-icons li {
+    display: inline-block;
+    padding: 2.5em;
+    text-align: center;
+        list-style: none;
+        padding-left: 0;
+    }
+}
